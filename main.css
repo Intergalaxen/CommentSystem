@@ -1,0 +1,15 @@
+button{
+    padding: 2rem;
+    background-color: darkslateblue;
+    border: 0;
+    border-radius: 5%;
+    margin: 10rem 50%;
+    font-size: large;
+}
+button:hover{
+    background-color: rgb(53, 48, 87);
+}
+
+div{
+    border: 1px solid black;
+}
